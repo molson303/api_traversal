@@ -3,7 +3,7 @@
 
 #### Instructions:
 
-make an api call to grab a movie form a text field and then
+make an api call to grab a movie from a text field and then
 hit omdapi get a movie :
 http://www.omdbapi.com/?s=minions
 
@@ -20,5 +20,4 @@ slightly smaller if viewing on a phone.
 
 
 
-See mockup for example of how the image column should look. 
-
+See mockup for example of how the image column should look.
